@@ -1,0 +1,14 @@
+.sidebar {
+  background-color: blue;
+  grid-area: sidebar;
+  padding-right: 40px;
+}
+
+.sidebar__item a{
+  color: #fff;
+  text-decoration: none;
+}
+
+a.sidebar__link_active {
+  color: red;
+}

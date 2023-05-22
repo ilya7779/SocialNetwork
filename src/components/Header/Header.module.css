@@ -1,0 +1,16 @@
+.header {
+  display: grid;
+  grid-area: header;
+  background-color: red;
+  grid-template-columns: 11fr 1fr;
+}
+
+.header__logoImg {
+  width: 130px;
+  height: 70px;
+}
+
+.loginBlock a{
+  color: #fff;
+  text-decoration: none;
+}
